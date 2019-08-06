@@ -23,7 +23,7 @@ body {
 h1 {
     font-family: "Bungee Inline", sans-serif;
     font-weight: 400;
-    font-size: 6rem;
+    font-size: 6vw;
     color: white;
     transform: skewY(-5deg);
     margin-bottom: 6rem;
@@ -36,7 +36,7 @@ h1::before {
     content: '';
     display: block;
     height: 65%;
-    width: 68%;
+    width: 90vw;
     position: absolute;
     top: 105%;
     left: 50%;
@@ -47,7 +47,7 @@ h1::before {
 }
 
 .container {
-    width: 110rem;
+    /*width: 110rem;*/
     margin: 0 auto;
 }
 
@@ -80,14 +80,16 @@ h1::before {
 
 .cards-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 6rem;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-gap: 8rem;
 }
 
 .card {
     background: white;
     box-shadow: 0 3rem 6rem 1rem rgba(0, 0, 0, 0.25);
     margin-top: 0px;
+    min-width: 320px;
+    max-width: 400px;
 }
 
 .card__hero {
@@ -172,7 +174,7 @@ h1::before {
 
 /* PROJECTS CSS */
 .project {
-    width: 70rem;
+    /*width: 70rem;*/
     margin: 0 auto;
     background: white;
     box-shadow: 0 3rem 6rem 1rem rgba(0, 0, 0, 0.25);
