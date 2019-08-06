@@ -1,0 +1,56 @@
+[
+    {
+        "id": "0",
+        "projectName": "Recipe Searcher",
+        "image": "recipe_searcher.jpg",
+        "shortDescription": "Webapp created with webpack to retrieve recipes and make shopping list",
+        "description": "Webapp created with webpack to retrieve recipes and make shopping list",
+        "github": "https://github.com/KoshiroKun/forkify-food",
+        "url": "https://koshirokun.github.io/forkify-food/"
+    },
+    {
+        "id": "1",
+        "projectName": "Budget Calculator",
+        "image": "budget_calculator.jpg",
+        "shortDescription": "Web app for monthly budget calculations",
+        "description": "Web app for monthly budget calculations",
+        "github": "https://github.com/KoshiroKun/budget_calculator",
+        "url": "https://koshirokun.github.io/budget_calculator/"
+    },
+    {
+        "id": "2",
+        "projectName": "Candy Crush Clone",
+        "image": "candy_crush_clone.jpg",
+        "shortDescription": "Candy Crush game made in Godot",
+        "description": "Candy Crush game made in Godot",
+        "github": "https://github.com/KoshiroKun/candyCrush_learn",
+        "url": "https://koshirokun.github.io/delisiosoCrush/"
+    },
+    {
+        "id": "3",
+        "projectName": "Ract - TODO App",
+        "image": "react_todo_app.jpg",
+        "shortDescription": "Todo app made in react",
+        "description": "Todo app made in react",
+        "github": "https://github.com/KoshiroKun/TodoApp-React",
+        "url": "https://koshirokun.github.io/react-todoapp/"
+    },
+    {
+        "id": "4",
+        "projectName": "Dice Game",
+        "image": "dice_game.jpg",
+        "shortDescription": "Web browser dice game for two players",
+        "description": "Web browser dice game for two players",
+        "github": "https://github.com/KoshiroKun/js_dice_game",
+        "url": "https://koshirokun.github.io/js_dice_game/"
+    },
+    {
+        "id": "5",
+        "projectName": "Escape from the Pabe VR",
+        "image": "escape_from_the_pabe_vr.jpg",
+        "shortDescription": "Puzzle solve game in VR with Unreal Engine 4",
+        "description": "Puzzle solve game in VR with Unreal Engine 4",
+        "github": "https://github.com/KoshiroKun/escape_from_the_pabe_vr",
+        "url": ""
+    }
+]
