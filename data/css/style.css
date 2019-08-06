@@ -67,6 +67,10 @@ h1::before {
     float: right;
 }
 
+.footer-links {
+    margin-right: 10px;
+}
+
 /* CARDS CSS */
 .content {
     flex: 1 0 auto;
